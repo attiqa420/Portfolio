@@ -4,7 +4,7 @@ Welcome to my personal portfolio website, built to showcase my web development p
 
 ## 🚀 Live Demo
 
-👉 [View Website](https://attiqa420.github.io/Portfolio/)
+👉 [View Website](https://attiqa420.github.io/portfolio/)
 
 ## 🖼️ Preview
 
